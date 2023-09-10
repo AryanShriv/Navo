@@ -398,7 +398,13 @@ header.sticky ul li a {
     justify-content: center;
     margin-top: 80px;
     margin: auto;
-    width: 50%;
+    width: 80%;
+}
+
+@media screen and (min-width: 1500px) {
+    .message {
+        width: 50%;
+    }
 }
 
 .message .doc_image img {
