@@ -18,6 +18,10 @@
     /* text-align: justify; */
 }
 
+body{
+    background-color: #add8e64a;
+}
+
 
 header {
     height: 90px;
